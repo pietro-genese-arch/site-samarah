@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Para Você · Dia das Crianças",
+      "hasCanvas": false,
+      "bodyTextLen": 122,
+      "bodyTextHash": "c444f721b269645ca3e9840fb35364d0e23312e5ae18d29b8a2dc86950b8bb78",
+      "bodyTextPrefix": "12 DE OUTUBRO · DIA DAS CRIANÇAS Uma carta para você Desde 7 de ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Para Você · Dia das Crianças",
+      "hasCanvas": false,
+      "bodyTextLen": 122,
+      "bodyTextHash": "c444f721b269645ca3e9840fb35364d0e23312e5ae18d29b8a2dc86950b8bb78",
+      "bodyTextPrefix": "12 DE OUTUBRO · DIA DAS CRIANÇAS Uma carta para você Desde 7 de ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
